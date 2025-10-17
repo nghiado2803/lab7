@@ -6,7 +6,7 @@ public class Jdbc {
     // Cấu hình thông tin kết nối
     private static final String DRIVER = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
     private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=HRM;encrypt=false";
-    private static final String USER = "nghia";
+    private static final String USER = "vannghia";
     private static final String PASSWORD = "123456";
 
     static {
